@@ -1,0 +1,3 @@
+birdnet>=1.0,<2
+gradio>=5.0,<7.0
+pandas>=2.0,<4.0
